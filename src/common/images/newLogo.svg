@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="637" height="123" viewBox="0 0 637 123">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 113.2px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: Lato;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 40.614px;
+      }
+
+      .cls-3 {
+        font-size: 23.384px;
+        font-family: Roboto;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 4px;
+      }
+
+      .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <image id="Layer_5_copy" data-name="Layer 5 copy" x="517" width="120" height="123" xlink:href="data:img/png;base64,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"/>
+  <text id="Healthcare360_" data-name="Healthcare360  " class="cls-1" transform="translate(143.26 87.229) scale(0.639 0.64)">Healthcare360  </text>
+  <text id="The" class="cls-2" transform="translate(148.26 28.229) scale(0.639 0.64)">The</text>
+  <text id="Risk_Adjustment_Made_Easy" data-name="Risk Adjustment Made Easy" class="cls-3" transform="translate(147.729 108.772) scale(0.841 0.842)">Risk Adjustment Made Easy</text>
+  <path id="Polygon_1" data-name="Polygon 1" class="cls-4" d="M62.809,103.248L27.058,82.374V40.626L62.809,19.752,98.561,40.626V82.374Z"/>
+  <path id="Polygon_2" data-name="Polygon 2" class="cls-4" d="M108.99,98.257L78.765,118.391l-36.208-1.6L14.2,94.078,4.515,58.918l12.7-34.174L47.436,4.609,83.645,6.2l28.361,22.717,9.681,35.161Z"/>
+  <path id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-5" d="M84.109,9.909L96.354,36.381,93.61,37.613,81.364,11.14Z"/>
+  <path id="Rectangle_1_copy_19" data-name="Rectangle 1 copy 19" class="cls-5" d="M34.472,76.944L15.545,99.074,13.3,97.063l18.926-22.13Z"/>
+  <path id="Rectangle_1_copy_3" data-name="Rectangle 1 copy 3" class="cls-5" d="M84.056,4.929L62.37,24.324l-1.958-2.295L82.1,2.634Z"/>
+  <path id="Rectangle_1_copy_4" data-name="Rectangle 1 copy 4" class="cls-5" d="M45.013,3.663L66.467,23.316l-2.059,2.2L42.954,5.866Z"/>
+  <path id="Rectangle_1_copy_5" data-name="Rectangle 1 copy 5" class="cls-5" d="M43.735,11.777L31.48,38.138l-2.69-1.324L41.044,10.453Z"/>
+  <path id="Rectangle_1_copy_6" data-name="Rectangle 1 copy 6" class="cls-5" d="M29.532,41.957L7.648,60.977,5.73,58.662,27.614,39.642Z"/>
+  <path id="Rectangle_1_copy_21" data-name="Rectangle 1 copy 21" class="cls-5" d="M119.677,59.263L97.792,40.243l-1.918,2.315,21.884,19.02Z"/>
+  <path id="Rectangle_1_copy_7" data-name="Rectangle 1 copy 7" class="cls-5" d="M27.134,82.153L5.324,63.047l2-2.241,21.81,19.106Z"/>
+  <path id="Rectangle_1_copy_8" data-name="Rectangle 1 copy 8" class="cls-5" d="M40.9,113.616L30.609,86.423,33.425,85.4l10.288,27.193Z"/>
+  <path id="Rectangle_1_copy_9" data-name="Rectangle 1 copy 9" class="cls-5" d="M43.689,116.163L64.683,96.152l2.022,2.224L45.711,118.387Z"/>
+  <path id="Rectangle_1_copy_10" data-name="Rectangle 1 copy 10" class="cls-5" d="M61.5,97.06l21.122,19.875L80.542,119.1,59.421,99.228Z"/>
+  <path id="Rectangle_1_copy_11" data-name="Rectangle 1 copy 11" class="cls-5" d="M94.2,86.352L82.422,112.933l-2.714-1.275,11.778-26.58Z"/>
+  <path id="Rectangle_1_copy_12" data-name="Rectangle 1 copy 12" class="cls-5" d="M119.671,62.848L97.134,81.079,95.3,78.7l22.537-18.231Z"/>
+  <path id="Rectangle_1_copy_20" data-name="Rectangle 1 copy 20" class="cls-5" d="M104.231,92.186l-4.749-5.512,2.234-2.008,4.749,5.512Z"/>
+  <path id="Rectangle_1_copy_22" data-name="Rectangle 1 copy 22" class="cls-5" d="M27.619,43.293L16.188,26.245l2.548-1.585,11.43,17.049Z"/>
+  <path id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-5" d="M96.93,39.842L109.373,24l1.87,1.625L98.8,41.468Z"/>
+  <path id="Ellipse_1_copy_15" data-name="Ellipse 1 copy 15" class="cls-5" d="M28.245,36.09a5.445,5.445,0,1,1-5.409,5.445A5.427,5.427,0,0,1,28.245,36.09Z"/>
+  <circle id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-6" cx="108.781" cy="26.406" r="5.407"/>
+  <circle id="Ellipse_1_copy_3" data-name="Ellipse 1 copy 3" class="cls-6" cx="119.594" cy="60.891" r="5.406"/>
+  <circle id="Ellipse_1_copy_4" data-name="Ellipse 1 copy 4" class="cls-6" cx="108.781" cy="95.375" r="5.407"/>
+  <path id="Ellipse_1_copy_5" data-name="Ellipse 1 copy 5" class="cls-5" d="M80.529,111.11a5.445,5.445,0,1,1-5.409,5.445A5.427,5.427,0,0,1,80.529,111.11Z"/>
+  <circle id="Ellipse_1_copy_6" data-name="Ellipse 1 copy 6" class="cls-6" cx="45.063" cy="116.563" r="5.406"/>
+  <circle id="Ellipse_1_copy_7" data-name="Ellipse 1 copy 7" class="cls-6" cx="16.828" cy="95.375" r="5.422"/>
+  <path id="Ellipse_1_copy_8" data-name="Ellipse 1 copy 8" class="cls-5" d="M5.409,55.45A5.445,5.445,0,1,1,0,60.9,5.427,5.427,0,0,1,5.409,55.45Z"/>
+  <circle id="Ellipse_1_copy_9" data-name="Ellipse 1 copy 9" class="cls-6" cx="18.031" cy="25.203" r="5.406"/>
+  <circle class="cls-6" cx="44.469" cy="6.438" r="5.406"/>
+  <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-6" cx="80.531" cy="6.438" r="5.406"/>
+  <path id="Ellipse_1_copy_11" data-name="Ellipse 1 copy 11" class="cls-5" d="M96.154,36.09a5.445,5.445,0,1,1-5.409,5.445A5.427,5.427,0,0,1,96.154,36.09Z"/>
+  <path id="Ellipse_1_copy_13" data-name="Ellipse 1 copy 13" class="cls-5" d="M62.5,95.38a5.445,5.445,0,1,1-5.409,5.445A5.427,5.427,0,0,1,62.5,95.38Z"/>
+  <circle id="Ellipse_1_copy_10" data-name="Ellipse 1 copy 10" class="cls-6" cx="62.203" cy="22.484" r="6.922"/>
+  <circle id="Ellipse_1_copy_14" data-name="Ellipse 1 copy 14" class="cls-6" cx="28.547" cy="80.547" r="6.922"/>
+  <circle id="Ellipse_1_copy_12" data-name="Ellipse 1 copy 12" class="cls-6" cx="96.453" cy="81.172" r="6.922"/>
+  <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-5" d="M65,52a4,4,0,0,1,4,4V75a4,4,0,0,1-8,0V56A4,4,0,0,1,65,52Z"/>
+  <path id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" class="cls-5" d="M78,44c2.209,0,4,2.322,4,5.185v24.63C82,76.679,80.209,79,78,79s-4-2.322-4-5.185V49.185C74,46.322,75.791,44,78,44Z"/>
+  <circle class="cls-6" cx="49.5" cy="72.5" r="6.5"/>
+</svg>

@@ -1,0 +1,17 @@
+.App {
+    background-color: #ffa500;
+    background-image: linear-gradient(to bottom, #093cc8 , #00c4ff),
+  }
+  
+  .MEMBER_360_BG {
+    /* background-color: #ffa500; */
+    background-image: linear-gradient(to bottom, #1ec927 , #9ae78b),
+  }
+  .CLAIMS_360_BG {
+    /* background-color: #ffa500; */
+    background-image: linear-gradient(to bottom, #f19915 , #dab464),
+  }
+  .PROVIDER_360_BG {
+    /* background-color: #ffa500; */
+    background-image: linear-gradient(to bottom, #093cc8 , #00c4ff),
+  }

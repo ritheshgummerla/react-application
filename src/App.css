@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+.MEMBER_360_BG{
+  background-color: orange
+}
+.PROVIDER_360_BG{
+  background-image:linear-gradient(to right, red , #00c4ff)
+}
+.App-header {
+  background-color:#2360ac;
+  min-height: 100vh;
+  display: flex;
+  flex-grow: 1;
+  padding : 24px;
+  /* flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white; */
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+.makeStyles-cardBody-144 {
+  font-family: Play;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.MuiDrawer-paper{
+  background-image: linear-gradient(to bottom, #093cc8 , #00c4ff);
+  /* background-image: url(${SidenavBg}); */
+}
+
+
+.MuiListItem-gutters{
+  padding-left:24px !important;
+}
+
+.MuiPaper-elevation4 {
+  box-shadow: none !important;
+  /* box-shadow: 70px 2px 4px -1px rgba(0,0,0,0.2), 75px 4px 5px 0px rgba(0,0,0,0.14), 70px 1px 10px 0px rgba(0,0,0,0.12) !important; */
+}
+
+
+.MuiDrawer-paper{
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#093cc8+0,093cc8+38,00c4ff+100 */
+background: #093cc8 !important; /* Old browsers */
+background: -moz-linear-gradient(top,  #093cc8 0%, #093cc8 40%, #00c4ff 100%) !important; /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #093cc8 0%,#093cc8 40%,#00c4ff 100%) !important; /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #093cc8 0%,#093cc8 40%,#00c4ff 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#093cc8', endColorstr='#00c4ff',GradientType=0 ) !important; /* IE6-9 */
+}
+
+.MuiDrawer-paperAnchorDockedLeft{
+  border: none !important;
+}
+
+a:-webkit-any-link{
+  text-decoration: none !important;
+}
+
